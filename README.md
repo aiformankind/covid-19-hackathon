@@ -4,7 +4,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Add Your Ideas Below
 
-1. Can someone tell me where I can find a mask ?
+1. Realtime monitoring of temperature.
+2. Can someone tell me where I can find a mask ?
 
 ### Resources
 https://github.com/aiformankind/covid-19

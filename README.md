@@ -4,8 +4,9 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Add Your Ideas Below
 
-1. Realtime monitoring of temperature.
-2. Can someone tell me where I can find a mask ?
+1. Realtime monitoring of temperature. A way to proactively monitor the temperature.
+2. Can someone tell me where I can find a mask and any essential items during outbreak/quarantine ?
+3. 
 
 ### Resources
 https://github.com/aiformankind/covid-19

@@ -34,6 +34,7 @@ https://github.com/aiformankind/covid-19
 #### AI Solutions
 - [Chinese Hospitals Deploy AI to Help Diagnose Covid-19](https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/)
 - [COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30054-6/fulltext)
+- [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
 
 ### Join Slack Channel for Discussion
 - [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)

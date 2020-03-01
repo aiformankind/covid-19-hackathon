@@ -31,6 +31,8 @@ https://github.com/aiformankind/covid-19
 - [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
 - [Covid-19 Analysis](https://github.com/AaronWard/covid-19-analysis)
 
+#### AI Solutions
+- [Chinese Hospitals Deploy AI to Help Diagnose Covid-19](https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/)
 
 ### Join Slack Channel for Discussion
 - [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)

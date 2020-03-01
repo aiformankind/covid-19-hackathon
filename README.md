@@ -8,3 +8,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Resources
 https://github.com/aiformankind/covid-19
+
+### Join Slack Channel for Discussion
+- [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)
+

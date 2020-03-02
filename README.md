@@ -4,7 +4,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Add Your Ideas Below
 
-1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login.
+1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter.
 
 2. Proposed by Jared Yu: Determine the spread of the disease. For example, I think there are some best/worse case scenarios to consider per country/globally. I think the growth in some places like Italy, Iran, and S. Korea have surprised people. Also try to rank country preparedness and see which countries are in need and what can be done.
 

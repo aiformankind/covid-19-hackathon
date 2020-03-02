@@ -4,15 +4,17 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Add Your Ideas Below
 
-1. Realtime monitoring of temperature. A way to proactively monitor the temperature.
+1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login.
 
 2. Proposed by Jared Yu: Determine the spread of the disease. For example, I think there are some best/worse case scenarios to consider per country/globally. I think the growth in some places like Italy, Iran, and S. Korea have surprised people. Also try to rank country preparedness and see which countries are in need and what can be done.
 
 3. Proposed by Mennatullah Siam: Build maps for potential places for the spread of the virus. In Seattle it was mainly seniors and in general it was found people with less immune system. So if there is a way we can crawl based on locations of hospital/senior homes/ but also proximity to previous places with infections and tracks of each individual found with a virus + amount of time taken to actually have that virus. Building this heatmap might help them trackdown the virus better not sure the applicability though of the idea.  I am guessing already govt in developed countries are doing that. The problem is that these tools are probably private. Community effort to build this open source tool will help underdeveloped countries much more at least as warnings for citizens with lower immune system to stay away from these potential places. 
 
-4. Can someone tell me where I can find a mask and any essential items during outbreak/quarantine ?
+4. Proposed by Wei Shung Chung: Can someone tell me where I can find a mask and any essential items during outbreak/quarantine ?
 
-5. A way for parents to know who is sick in the daycare/school ? 
+5. Proposed by Wei Shung Chung: A way for parents to know who is sick in the daycare/school. 
+
+6. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers.
 
 
 ### Resources

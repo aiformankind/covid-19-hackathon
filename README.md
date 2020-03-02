@@ -80,6 +80,7 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 - [COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30054-6/fulltext)
 - [Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://pubs.rsna.org/doi/10.1148/radiol.2020200642)
 - [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
+- [Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
 
 ### Join Slack Channel for Discussion
 - [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)

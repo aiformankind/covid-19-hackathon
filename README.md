@@ -1,6 +1,6 @@
 # covid-19-hackathon
 
-Goal: Come up with ideas and build applications to help the communities in tackling Covid-19 crisis.
+Goal: Come up with ideas and build applications to help the communities in tackling Covid-19 crisis. Sign up form. https://forms.gle/63vGECLE9yDiDE5j6
 
 ### Add Your Ideas Below
 

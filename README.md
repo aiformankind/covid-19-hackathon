@@ -16,6 +16,11 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 6. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers.
 
+7. Proposed by Sambit Das. Handle misinformation
+
+8. Proposed by Aruj Mahajan: Build a knowledge graph aggregating infos from wikipedia, JHU Covid-19 cases dataset and other data sources.
+
+9. Understand and find out more infos about the risk to pregnant women.
 
 ### Resources
 https://github.com/aiformankind/covid-19

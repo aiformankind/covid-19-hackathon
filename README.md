@@ -1,6 +1,6 @@
 # covid-19-hackathon
 
-Goal: Come up with ideas and build applications to help the communities in tackling Covid-19 crisis. Sign up form. https://forms.gle/63vGECLE9yDiDE5j6
+Goal: Come up with ideas and build applications to help the communities in tackling Covid-19 crisis. [Sign up form](https://forms.gle/63vGECLE9yDiDE5j6)
 
 ### Add Your Ideas Below
 
@@ -24,7 +24,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 
 ### Resources
-https://github.com/aiformankind/covid-19
+- [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
+- https://github.com/aiformankind/covid-19
 
 #### Covid-19 Updates
 - [World Health Organization (WHO) Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)

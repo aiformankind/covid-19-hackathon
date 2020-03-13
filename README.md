@@ -22,6 +22,11 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 9. Understand and find out more infos about the risk to pregnant women.
 
+10. Proposed by David Selinger: Work on Covid-19 Primers Design: [Technical Problems with Existing CDC COVID-19 Primers, and an Improved Set of Primers](https://tomeraltman.net/2020/03/03/technical-problems-COVID-primers.html?fbclid=IwAR0sxmqGJ74GQfjQw3tclmTPl-LLrL5V63aPBv5XkxAwtGZ11GBNsMWD1Qc)
+
+11. Proposed by Anna T and Jean-Philippe Monfet: Tracking those who might have come into contact with a newly confirmed case or suspected case, etc
+
+12. Proposed by Anna T: Mobile health project that helps people to keep track of their health conditions, e.g. vital signs, symptoms etc.
 
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)

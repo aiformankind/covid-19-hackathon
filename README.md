@@ -30,7 +30,10 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 13. Train a CT Scan model to diagnose Coronavirus.
 
-14. Proposed by Abhay Agarwal : Develop a mobile application to track locations and path taken by people to reach any destination. Application will raise a red flag advising not to take particular path and in case if somebody is infected but clinically not yet confirmed so at least we can know their travel history to identify other people.
+14. Proposed by Abhay Agarwal :-
+(a) Develop a mobile application to track locations and path taken by people to reach their destinations. Application will raise a red flag advising not to take particular path and in case if somebody is infected but clinically not yet confirmed so at least we can know their travel history to save other people as soon as initial person's symtoms get confirmed.
+
+(b) Make a mobile application to strategically place vaccines (when available but need to be prepared in advance) and other medical products to reach to majority of people so they don't have to travel too much and get benefitted asap.
 
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)

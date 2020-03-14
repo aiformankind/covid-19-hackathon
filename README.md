@@ -28,6 +28,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 12. Proposed by Anna T: Mobile health project that helps people to keep track of their health conditions, e.g. vital signs, symptoms etc.
 
+13. Train a CT Scan model to diagnose Coronavirus.
+
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
 - https://github.com/aiformankind/covid-19

@@ -8,29 +8,31 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 2. [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) Proposed by Jared Yu: Determine the spread of the disease. For example, I think there are some best/worse case scenarios to consider per country/globally. I think the growth in some places like Italy, Iran, and S. Korea have surprised people. Also try to rank country preparedness and see which countries are in need and what can be done.
 
-3. Proposed by Mennatullah Siam: Build maps for potential places for the spread of the virus. In Seattle it was mainly seniors and in general it was found people with less immune system. So if there is a way we can crawl based on locations of hospital/senior homes/ but also proximity to previous places with infections and tracks of each individual found with a virus + amount of time taken to actually have that virus. Building this heatmap might help them trackdown the virus better not sure the applicability though of the idea.  I am guessing already govt in developed countries are doing that. The problem is that these tools are probably private. Community effort to build this open source tool will help underdeveloped countries much more at least as warnings for citizens with lower immune system to stay away from these potential places. 
+3. [State by state ICU beds availability and capacity study](https://github.com/aiformankind/covid-19-hackathon/blob/master/by_state_covid_analysis.ipynb) contributed by [Dave Selinger and team](https://github.com/daveselinger)
 
-4. [Where-To-Buy Project Page](https://aiformankind.github.io/where-to-buy/) Proposed by Wei Shung Chung: Can someone tell me where I can find a mask and any essential items during outbreak/quarantine ? A website driven by communities to post/share infos about the availability of items (Suggested by Anna)
+4. Proposed by Mennatullah Siam: Build maps for potential places for the spread of the virus. In Seattle it was mainly seniors and in general it was found people with less immune system. So if there is a way we can crawl based on locations of hospital/senior homes/ but also proximity to previous places with infections and tracks of each individual found with a virus + amount of time taken to actually have that virus. Building this heatmap might help them trackdown the virus better not sure the applicability though of the idea.  I am guessing already govt in developed countries are doing that. The problem is that these tools are probably private. Community effort to build this open source tool will help underdeveloped countries much more at least as warnings for citizens with lower immune system to stay away from these potential places. 
 
-5. Proposed by Wei Shung Chung: A way for parents to know who is sick in the daycare/school. Need more infos and visibility.
+5. [Where-To-Buy Project Page](https://aiformankind.github.io/where-to-buy/) Proposed by Wei Shung Chung: Can someone tell me where I can find a mask and any essential items during outbreak/quarantine ? A website driven by communities to post/share infos about the availability of items (Suggested by Anna)
 
-6. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers. Find out the treatment plans per individual types (Suggested by Anna).
+6. Proposed by Wei Shung Chung: A way for parents to know who is sick in the daycare/school. Need more infos and visibility.
 
-7. Proposed by Sambit Das. Handle misinformation
+7. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers. Find out the treatment plans per individual types (Suggested by Anna).
 
-8. Proposed by Aruj Mahajan: Build a knowledge graph aggregating infos from wikipedia, JHU Covid-19 cases dataset and other data sources.
+8. Proposed by Sambit Das. Handle misinformation
 
-9. Understand and find out more infos about the risk to pregnant women.
+9. Proposed by Aruj Mahajan: Build a knowledge graph aggregating infos from wikipedia, JHU Covid-19 cases dataset and other data sources.
 
-10. Proposed by David Selinger: Work on Covid-19 Primers Design: [Technical Problems with Existing CDC COVID-19 Primers, and an Improved Set of Primers](https://tomeraltman.net/2020/03/03/technical-problems-COVID-primers.html?fbclid=IwAR0sxmqGJ74GQfjQw3tclmTPl-LLrL5V63aPBv5XkxAwtGZ11GBNsMWD1Qc)
+10. Understand and find out more infos about the risk to pregnant women.
 
-11. Proposed by Anna T and Jean-Philippe Monfet: Tracking those who might have come into contact with a newly confirmed case or suspected case, etc
+11. Proposed by David Selinger: Work on Covid-19 Primers Design: [Technical Problems with Existing CDC COVID-19 Primers, and an Improved Set of Primers](https://tomeraltman.net/2020/03/03/technical-problems-COVID-primers.html?fbclid=IwAR0sxmqGJ74GQfjQw3tclmTPl-LLrL5V63aPBv5XkxAwtGZ11GBNsMWD1Qc)
 
-12. Proposed by Anna T: Mobile health project that helps people to keep track of their health conditions, e.g. vital signs, symptoms etc.
+12. Proposed by Anna T and Jean-Philippe Monfet: Tracking those who might have come into contact with a newly confirmed case or suspected case, etc
 
-13. Train a CT Scan model to diagnose Coronavirus.
+13. Proposed by Anna T: Mobile health project that helps people to keep track of their health conditions, e.g. vital signs, symptoms etc.
 
-14. Proposed by Abhay Agarwal :-
+14. Train a CT Scan model to diagnose Coronavirus.
+
+15. Proposed by Abhay Agarwal :-
 (a) Develop a mobile application to track locations and path taken by people to reach their destinations. Application will raise a red flag advising not to take particular path and in case if somebody is infected but clinically not yet confirmed so at least we can know their travel history to save other people as soon as initial person's symtoms get confirmed.
 
 (b) Make a mobile application to strategically place vaccines (when available but need to be prepared in advance) and other medical products to reach to majority of people so they don't have to travel too much and get benefitted asap.
@@ -65,7 +67,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 By participating in this hackathon, participants agree to be bound by all of the terms and conditions as set out below.
 
-#### Hackathon Requirements
+#### Hackathon Rules
 1. Teams must be comprised of 1-5 people.
 
 2. You have to create a public github repository for your entry with the MIT License.
@@ -103,7 +105,7 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 - [Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
 
 ### Join Slack Channel for Discussion
-- [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 #### Contact Us
 If you have any questions, please feel free to

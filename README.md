@@ -56,6 +56,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 #### Datasets and Analysis
 - [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
 - [Covid-19 Analysis](https://github.com/AaronWard/covid-19-analysis)
+- [California Health and Human Services Open Data Portal](https://data.chhs.ca.gov/dataset/licensed-bed-classification-and-designations-trends)
 
 #### Journals
 - [The New England Journal of Medicine](https://www.nejm.org/coronavirus)

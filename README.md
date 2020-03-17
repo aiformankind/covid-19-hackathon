@@ -16,7 +16,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 6. Proposed by Wei Shung Chung: A way for parents to know who is sick in the daycare/school. Need more infos and visibility.
 
-7. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers. Find out the treatment plans per individual types (Suggested by Anna).
+7. Proposed by Wei Shung Chung: Scan latest papers about Covid-19 from NEJM, JAMA, Lancent, etc and provide summaries of the papers. Find out the treatment plans per individual types (Suggested by Anna). We will form some teams to participate in [CORD-19-research-challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 8. Proposed by Sambit Das. Handle misinformation
 

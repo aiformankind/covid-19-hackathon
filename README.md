@@ -2,6 +2,15 @@
 
 Goal: Come up with ideas and build applications to help the communities in tackling Covid-19 crisis. [Sign up form](https://forms.gle/63vGECLE9yDiDE5j6)
 
+### Join Slack Channel for Discussion
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
+
+### Upcoming Online Hackathon events:
+1) [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
+
+### Past Online Hackathon events:
+1) [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
+
 ### Add Your Ideas Below
 
 1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter.
@@ -106,8 +115,6 @@ Note: Teams can be disqualified from the competition at the organizer's discreti
 - [Sensitivity of Chest CT for COVID-19: Comparison to RT-PCR](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
 - [Alibaba develops AI system for Covid-19 diagnosis](https://technode.com/2020/02/28/tech-for-good-alibaba-develops-ai-system-for-covid-19-diagnosis/)
 
-### Join Slack Channel for Discussion
-- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 #### Contact Us
 If you have any questions, please feel free to

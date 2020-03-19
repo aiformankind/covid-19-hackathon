@@ -11,13 +11,21 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 ### Past Online Hackathon events:
 1) [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
 
+### Quick Start Data Exploration Notebook:
+- [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) provided by AI For Mankind
+
+### Notebooks by Hackathon Participants
+- [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. [See youtube video here](https://youtu.be/lLJR3ItY938)
+
+- [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb)
+
 ### Add Your Ideas Below
 
 1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter.
 
 2. [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) Proposed by Jared Yu: Determine the spread of the disease. For example, I think there are some best/worse case scenarios to consider per country/globally. I think the growth in some places like Italy, Iran, and S. Korea have surprised people. Also try to rank country preparedness and see which countries are in need and what can be done.
 
-3. [State by state ICU beds availability and capacity study](https://github.com/aiformankind/covid-19-hackathon/blob/master/by_state_covid_analysis.ipynb) contributed by [Dave Selinger and team](https://github.com/daveselinger)
+3. [State by state ICU beds availability and capacity study: When do ICU's get too full?](https://github.com/aiformankind/covid-19-hackathon/blob/master/by_state_covid_analysis.ipynb) contributed by [Dave Selinger and team](https://github.com/daveselinger)
 
 4. Proposed by Mennatullah Siam: Build maps for potential places for the spread of the virus. In Seattle it was mainly seniors and in general it was found people with less immune system. So if there is a way we can crawl based on locations of hospital/senior homes/ but also proximity to previous places with infections and tracks of each individual found with a virus + amount of time taken to actually have that virus. Building this heatmap might help them trackdown the virus better not sure the applicability though of the idea.  I am guessing already govt in developed countries are doing that. The problem is that these tools are probably private. Community effort to build this open source tool will help underdeveloped countries much more at least as warnings for citizens with lower immune system to stay away from these potential places. 
 

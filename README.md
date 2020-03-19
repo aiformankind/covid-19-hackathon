@@ -15,9 +15,11 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) provided by AI For Mankind
 
 ### Notebooks by Hackathon Participants
-- [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. [See youtube video here](https://youtu.be/lLJR3ItY938)
+- [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. 
 
-- [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb)
+[See vidoe presentation of results](https://youtu.be/lLJR3ItY938)
+
+- [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb) by  Abhishek Ghosh Moumita Mukherjee, and Avinash Anantharamu.
 
 ### Add Your Ideas Below
 

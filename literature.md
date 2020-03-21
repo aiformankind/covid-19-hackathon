@@ -24,4 +24,10 @@ https://www.kaggle.com/tarunpaparaju/covid-19-dataset-gaining-actionable-insight
 
 ### Resources
 - [The Science Behind the Coronavirus](https://youtu.be/ddlRvqhGdPk)
+- [A complete tutorial for Named Entity Recognition and Extraction in Natural Language Processing using Neural Nets](https://medium.com/@rohit.sharma_7010/a-complete-tutorial-for-named-entity-recognition-and-extraction-in-natural-language-processing-71322b6fb090)
 - [National Center for Biotechnology Information: BioNLP Research](https://github.com/ncbi-nlp)
+
+### Papers
+- [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/abs/1901.08746)
+- [A text-mining approach to obtain detailed treatment information from free-text fields in population-based cancer registries: A study of non-small cell lung cancer in California](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6386345/)
+

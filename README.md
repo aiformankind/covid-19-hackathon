@@ -60,7 +60,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 (b) Make a mobile application to strategically place vaccines (when available but need to be prepared in advance) and other medical products to reach to majority of people so they don't have to travel too much and get benefitted asap.
 
-16. [Asif Shakeel] A heatmap with time of the confirmed cases across the globe. This could be a standalone visualization or used to get an idea of the spread characteristics.
+16. [Global Covid-19 confirmed cases heatmap with time](covid-19-trajectoryHeatmap.ipynb) A heatmap with time of the confirmed cases across the globe. This could be a standalone visualization or used to get an idea of the spread characteristics.
 
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)

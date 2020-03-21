@@ -69,6 +69,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 #### COVID-19 Maps
 - [HealthMap](https://www.healthmap.org/covid-19/)
 - [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [Worldometers Coronavirus Cases in USA](https://www.worldometers.info/coronavirus/country/us/)
 - [Centers of Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
 - [Singapore Covid-19 Dashboard](https://co.vid19.sg/)
 

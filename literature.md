@@ -7,6 +7,9 @@ on preprint servers to invite experts use AI to discover new insights abaout the
 
 https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/
 
+### Join Slack Channel for Discussion
+- [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
+
 ### Kaggle Tasks
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks
 

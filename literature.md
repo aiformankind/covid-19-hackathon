@@ -25,6 +25,7 @@ https://www.kaggle.com/tarunpaparaju/covid-19-dataset-gaining-actionable-insight
 ### Resources
 - [The Science Behind the Coronavirus](https://youtu.be/ddlRvqhGdPk)
 - [A complete tutorial for Named Entity Recognition and Extraction in Natural Language Processing using Neural Nets](https://medium.com/@rohit.sharma_7010/a-complete-tutorial-for-named-entity-recognition-and-extraction-in-natural-language-processing-71322b6fb090)
+- [Complete Tutorial on Named Entity Recognition (NER) using Python and Keras](https://www.aitimejournal.com/@akshay.chavan/complete-tutorial-on-named-entity-recognition-ner-using-python-and-keras)
 - [National Center for Biotechnology Information: BioNLP Research](https://github.com/ncbi-nlp)
 
 ### Papers

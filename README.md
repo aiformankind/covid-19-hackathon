@@ -23,6 +23,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 - [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb) by  Abhishek Ghosh Moumita Mukherjee, and Avinash Anantharamu.
 
+- [Baby Births Data Exploration](Baby_Births_USA_Exploration.ipynb) to understand the number of births/pregnant women across counties in upcoming months during this Coronavirus outbreak.
+
 ### Add Your Ideas Below
 
 1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter.

@@ -64,6 +64,18 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 (b) Make a mobile application to strategically place vaccines (when available but need to be prepared in advance) and other medical products to reach to majority of people so they don't have to travel too much and get benefitted asap.
 
+18. Proposed by Kaniska Mandal :-
+Analyze Social Network Feeds in order to implement following usecases
+(a) find what kind of symptoms are showing up and collect symptom data
+(b) find outbreak in new areas and drill down data by location
+(c) check if someone is asking for covid-19 help
+(d) analyze user sentiment and spread of anxiety
+(e) extract geocode and real-time map of users
+(f) find availability of testing kits and other critical equipments
+(g) create outbreak feature set (location, daily moving average,  season) against historical data and predic outbreak for a given location
+(h) alert on reaching threshold of outbreak feeds
+(i) extract positive and uplifiting news on improvement of situation 
+
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
 - https://github.com/aiformankind/covid-19

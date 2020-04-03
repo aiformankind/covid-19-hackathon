@@ -6,12 +6,13 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 ### Upcoming Online Hackathon events:
-1) [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
-
-- [Mining Medical Literature using AI](literature.md)
+1)  [Covid-19 Online Hackathon Saturday April 4, 2020 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/269837033/)
 
 ### Past Online Hackathon events:
 1) [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
+2) [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
+
+- [Mining Medical Literature using AI](literature.md)
 
 ### Quick Start Data Exploration Notebook:
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) provided by AI For Mankind

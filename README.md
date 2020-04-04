@@ -95,6 +95,7 @@ Analyze Social Network Feeds in order to implement following usecases
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
 - https://github.com/aiformankind/covid-19
+- [Stanford HAI Covid-19 and AI Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/video-archive)
 
 #### Covid-19 Updates
 - [World Health Organization (WHO) Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)

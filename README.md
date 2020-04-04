@@ -26,6 +26,9 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 - [Baby Births Data Exploration](Baby_Births_USA_Exploration.ipynb) to understand the number of births/pregnant women across counties in upcoming months during this Coronavirus outbreak.
 
+- [Quickstart Notebook for CORD19 (Novel Coronovirus 2019) NLP dataset](https://github.com/mrubash1/Covid19_Search_Tool) by [Matthew Rubashkin](https://www.linkedin.com/in/mrubash1/) and [Insight Fellows](https://insightfellows.com/data-science)
+
+
 ### Add Your Ideas Below
 
 1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter. Good news ! Similar tracking app was built by Pinterest CEO and a team of leading scientists.

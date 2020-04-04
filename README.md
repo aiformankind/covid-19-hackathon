@@ -20,7 +20,9 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 ### Notebooks by Hackathon Participants
 - [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. 
 
-  [See vidoe presentation of results](https://youtu.be/lLJR3ItY938)
+  [Video Presentation](https://youtu.be/lLJR3ItY938)
+  
+  [Dashboard](https://plotly.com/dashboard/efawe:52/present#/)
 
 - [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb) by  Abhishek Ghosh Moumita Mukherjee, and Avinash Anantharamu.
 

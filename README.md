@@ -100,9 +100,10 @@ Analyze Social Network Feeds in order to implement following usecases
 (i) extract positive and uplifiting news on improvement of situation 
 
 ### Existing Useful Applications Built to Combat Covid-19
-You can draw some inspirations from the following impactful applications built and deployed in combating Covid-19
+You can draw some inspirations from the following impactful applications built and deployed by other organizations in combating Covid-19
 - https://www.tracetogether.gov.sg/
 - https://www.howwefeel.org/
+- [Social Distancing Scoreboard](https://www.unacast.com/covid19/social-distancing-scoreboard)
 
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)

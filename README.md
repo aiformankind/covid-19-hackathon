@@ -34,6 +34,8 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 - [Quickstart Notebook for Fatality and Confirmed Cases Prediction using Demographic Data](https://github.com/tsofoon/covid19_pred/blob/master/COVID19_pred_week3_with_age.ipynb) by [Matthew (Chak Foon) Tso
 ](https://www.linkedin.com/in/matttso/)
 
+- [Quickstart Notebook for Covid-19 Chest XRay Analysis](covid19ChestXRayAnalysis.ipynb) by [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/)
+
 ### Add Your Ideas Below
 
 1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter. Good news ! Similar tracking app was built by Pinterest CEO and a team of leading scientists.

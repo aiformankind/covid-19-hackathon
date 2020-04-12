@@ -18,7 +18,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 ### Quick Start Data Exploration Notebook:
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) provided by AI For Mankind
 
-### Notebooks by Hackathon Participants
+### Exploratory Data Analysis Notebooks Built by Hackathon Participants
 - [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. 
 
   [Video Presentation](https://youtu.be/lLJR3ItY938)
@@ -35,6 +35,24 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 ](https://www.linkedin.com/in/matttso/)
 
 - [Quickstart Notebook for Covid-19 Chest XRay Analysis](covid19ChestXRayAnalysis.ipynb) by [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/)
+
+### Applications Built by Participants
+1. [A Better Search Engine for Covid-19 Researchers](https://github.com/mrubash1/Covid19_Search_Tool) Led by [Matthew Rubashkin](https://www.linkedin.com/in/mrubash1/)
+
+2. [Covid19Hotspot.org](http://covid19hotspot.org/) to crowdsource Covid-19 symptoms at the zipcodes level.
+It would be great if we have a map of Covid-19 hotspots and symptoms across every zipcode in the United States. This service is built to crowdsource Covid-19 symptoms information from public to build out this hotspot map. The data collected could potentially be used by researchers in understanding the spread.
+
+- Text us your symptoms and zipcode to 415-200-2449
+
+3. [WaitTimeNow.org](http://waittimenow.org/) to crowdsource wait time to enter store or checkout from the public through text messaging.
+As many stores start to limit the number of people in their stores to enforce social distancing and prevent the spread of Covid-19, the queue to enter the store is getting longer. Many of us would like to get near real time infos about the wait time for stores before heading out.
+
+- Share the wait time by TEXTing it to (415)319-9114
+
+4. [Where to Buy](https://aiformankind.github.io/where-to-buy/) to crowdsource items (hand sanitizer, wipes etc) availability in stores during Coronavirus outbreak using Slack channel and share the infos widely to all on the project web page.
+
+- Join this https://tinyurl.com/u845wb4 channel to share infos about where to buy items like hand sanitizer, wipe, toilet paper, and other essential items.
+
 
 ### Add Your Ideas Below
 

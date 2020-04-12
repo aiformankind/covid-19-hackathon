@@ -11,9 +11,7 @@ Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time
 ### Past Online Hackathon events:
 1. [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
 
-2. [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
-
-- [Mining Medical Literature using AI](literature.md)
+2. [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)   Main Topic: [Mining Medical Literature using AI](literature.md)
 
 3. [Covid-19 Online Hackathon Saturday April 4, 2020 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/269837033/)
 

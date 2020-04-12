@@ -9,6 +9,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 
 ### Past Online Hackathon events:
 1) [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
+
 2) [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
 
 - [Mining Medical Literature using AI](literature.md)

@@ -6,7 +6,7 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 ### Upcoming Online Hackathon events:
-Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time
+[Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/270011428/)
 
 ### Past Online Hackathon events:
 1. [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)

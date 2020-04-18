@@ -8,6 +8,14 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 ### Upcoming Online Hackathon events:
 [Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time](https://zoom.us/meeting/register/uZApduqtrD8uy5P1NF3M-izLwlz5v_y3_A)
 
+#### Presentations
+- Cough Against Covid-19 https://www.coughagainstcovid.org/
+Jigar Doshi from Wadhwani AI will present about this project to build AI-powered cough analysis technology that could assist in rapid and early diagnosis of COVID-19. This project is sponsored by Bill & Melinda Gates Foundation in collaboration with Stanford University.
+
+- Ivana Williams Staff Research Scientist at Chan Zuckerberg Initiative will give an intro on Exploration of the CORD-19 data set (papers from Pubmed, BioRxiv, MedRxiv, etc.) including document/sentence embeddings to serve IR or QA, clustering, visualization, and key phrase extraction.
+
+- One of the hackathon teams led by Matt Rubashkin, Rachael Creager and fellows from Insight Data Science will be giving a demo of their hackathon project, a Better Search Engine for Covid-19 Researchers.
+
 ### Past Online Hackathon events:
 1. [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
 

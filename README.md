@@ -6,28 +6,67 @@ Goal: Come up with ideas and build applications to help the communities in tackl
 - [AI For Mankind Slack Channel](https://tinyurl.com/vch2z68)
 
 ### Upcoming Online Hackathon events:
-1) [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)
+[Covid-19 Online Hackathon Saturday April 18, 2020 at 10 am Pacific Time](https://zoom.us/meeting/register/uZApduqtrD8uy5P1NF3M-izLwlz5v_y3_A)
 
-- [Mining Medical Literature using AI](literature.md)
+#### Presentations
+- Cough Against Covid-19 https://www.coughagainstcovid.org/
+Jigar Doshi from Wadhwani AI will present about this project to build AI-powered cough analysis technology that could assist in rapid and early diagnosis of COVID-19. This project is sponsored by Bill & Melinda Gates Foundation in collaboration with Stanford University.
+
+- Ivana Williams Staff Research Scientist at Chan Zuckerberg Initiative will give an intro on Exploration of the CORD-19 data set (papers from Pubmed, BioRxiv, MedRxiv, etc.) including document/sentence embeddings to serve IR or QA, clustering, visualization, and key phrase extraction.
+
+- One of the hackathon teams led by Matt Rubashkin, Rachael Creager and fellows from Insight Data Science will be giving a demo of their hackathon project, a Better Search Engine for Covid-19 Researchers.
 
 ### Past Online Hackathon events:
-1) [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
+1. [Covid-19 Online Hackathon, Saturday March 14, 2020](https://www.meetup.com/AI-for-Mankind/events/269390389/)
+
+2. [Covid-19 Online Hackathon: Work on COVID-19 Open Research Dataset, Saturday March 21, 2020](https://www.meetup.com/AI-for-Mankind/events/269473488/)   Main Topic: [Mining Medical Literature using AI](literature.md)
+
+3. [Covid-19 Online Hackathon Saturday April 4, 2020 at 10 am Pacific Time](https://www.meetup.com/AI-for-Mankind/events/269837033/)
 
 ### Quick Start Data Exploration Notebook:
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) provided by AI For Mankind
 
-### Notebooks by Hackathon Participants
+### Exploratory Data Analysis Notebooks Built by Hackathon Participants
 - [State by state ICU Beds Availability and Capacity Study: When do ICU's get too full?](by_state_covid_analysis.ipynb) by [Dave Selinger](https://github.com/daveselinger), Roger Stager, and Jerry Kurata. 
 
-  [See vidoe presentation of results](https://youtu.be/lLJR3ItY938)
+  [Video Presentation](https://youtu.be/lLJR3ItY938)
+  
+  [Dashboard](https://plotly.com/dashboard/efawe:52/present#/)
 
 - [collab-covid19-analysis](https://github.com/abg3/collab-covid19-analysis/blob/master/covid%2019%20visualizations.ipynb) by  Abhishek Ghosh Moumita Mukherjee, and Avinash Anantharamu.
 
 - [Baby Births Data Exploration](Baby_Births_USA_Exploration.ipynb) to understand the number of births/pregnant women across counties in upcoming months during this Coronavirus outbreak.
 
+- [Quickstart Notebook for CORD19 (Novel Coronovirus 2019) NLP dataset](https://github.com/mrubash1/Covid19_Search_Tool) by [Matthew Rubashkin](https://www.linkedin.com/in/mrubash1/) and [Insight Fellows](https://insightfellows.com/data-science)
+
+- [Quickstart Notebook for Fatality and Confirmed Cases Prediction using Demographic Data](https://github.com/tsofoon/covid19_pred/blob/master/COVID19_pred_week3_with_age.ipynb) by [Matthew (Chak Foon) Tso
+](https://www.linkedin.com/in/matttso/)
+
+- [Quickstart Notebook for Covid-19 Chest XRay Analysis](covid19ChestXRayAnalysis.ipynb) by [Kaniska Mandal](https://www.linkedin.com/in/kaniskamandal/)
+
+### Applications Built by Participants
+1. [A Better Search Engine for Covid-19 Researchers](https://github.com/mrubash1/Covid19_Search_Tool) Led by [Matthew Rubashkin](https://www.linkedin.com/in/mrubash1/)
+
+2. [Covid19Hotspot.org](http://covid19hotspot.org/) to crowdsource Covid-19 symptoms at the zipcodes level.
+It would be great if we have a map of Covid-19 hotspots and symptoms across every zipcode in the United States. This service is built to crowdsource Covid-19 symptoms information from public to build out this hotspot map. The data collected could potentially be used by researchers in understanding the spread.
+
+- Text us your symptoms and zipcode to 415-200-2449
+
+3. [WaitTimeNow.org](http://waittimenow.org/) to crowdsource wait time to enter store or checkout from the public through text messaging.
+As many stores start to limit the number of people in their stores to enforce social distancing and prevent the spread of Covid-19, the queue to enter the store is getting longer. Many of us would like to get near real time infos about the wait time for stores before heading out.
+
+- Share the wait time by TEXTing it to (415)319-9114
+
+4. [Where to Buy](https://aiformankind.github.io/where-to-buy/) to crowdsource items (hand sanitizer, wipes etc) availability in stores during Coronavirus outbreak using Slack channel and share the infos widely to all on the project web page.
+
+- Join this https://tinyurl.com/u845wb4 channel to share infos about where to buy items like hand sanitizer, wipe, toilet paper, and other essential items.
+
+
 ### Add Your Ideas Below
 
-1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter.
+1. Proposed by Wei Shung Chung: Realtime monitoring of temperature. A way to proactively monitor the temperature of everyone and show a heatmap. Build a REST API to accept geo location and temperature. Users can submit via their phones/web. Users do not need to login. Consider using Twitter. Good news ! Similar tracking app was built by Pinterest CEO and a team of leading scientists.
+- https://techcrunch.com/2020/04/02/pinterest-ceo-and-a-team-of-leading-scientists-launch-a-self-reporting-covid-19-tracking-app/  
+- https://www.howwefeel.org/
 
 2. [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb) Proposed by Jared Yu: Determine the spread of the disease. For example, I think there are some best/worse case scenarios to consider per country/globally. I think the growth in some places like Italy, Iran, and S. Korea have surprised people. Also try to rank country preparedness and see which countries are in need and what can be done.
 
@@ -86,9 +125,19 @@ Analyze Social Network Feeds in order to implement following usecases
 
 (i) extract positive and uplifiting news on improvement of situation 
 
+### Mentors For Hackathon
+1. [Ivana Williams](https://www.linkedin.com/in/ivanajw/) Staff Research Scientist at Chan Zuckerberg Initiative
+
+### Existing Useful Applications Built to Combat Covid-19
+You can draw some inspirations from the following impactful applications built and deployed by other organizations in combating Covid-19
+- https://www.tracetogether.gov.sg/
+- https://www.howwefeel.org/
+- [Social Distancing Scoreboard](https://www.unacast.com/covid19/social-distancing-scoreboard)
+
 ### Resources
 - [Quick Start Covid-19 Cases Data Exploration Colab Notebook](Covid_19_Data_Exploration.ipynb)
 - https://github.com/aiformankind/covid-19
+- [Stanford HAI Covid-19 and AI Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/video-archive)
 
 #### Covid-19 Updates
 - [World Health Organization (WHO) Advice for Public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)

@@ -149,11 +149,13 @@ You can draw some inspirations from the following impactful applications built a
 - [HealthMap](https://www.healthmap.org/covid-19/)
 - [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - [Worldometers Coronavirus Cases in USA](https://www.worldometers.info/coronavirus/country/us/)
+- [Facebook & Carnegie Mellon University COVID-19 Symptom Map](https://covid-survey.dataforgood.fb.com/)
 - [Centers of Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
 - [Singapore Covid-19 Dashboard](https://co.vid19.sg/)
 
 #### Datasets and Analysis
 - [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19)
+- [covid19dataportal.org](https://www.covid19dataportal.org/)
 - [Covid-19 Analysis](https://github.com/AaronWard/covid-19-analysis)
 - [Individual Hospital Statistics for California](https://www.ahd.com/states/hospital_CA.html)
 - [California Health and Human Services Open Data Portal](https://data.chhs.ca.gov/dataset/licensed-bed-classification-and-designations-trends)

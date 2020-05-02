@@ -159,6 +159,7 @@ You can draw some inspirations from the following impactful applications built a
 - [Covid-19 Analysis](https://github.com/AaronWard/covid-19-analysis)
 - [Individual Hospital Statistics for California](https://www.ahd.com/states/hospital_CA.html)
 - [California Health and Human Services Open Data Portal](https://data.chhs.ca.gov/dataset/licensed-bed-classification-and-designations-trends)
+- [Predictive Monitoring of COVID-19](https://ddi.sutd.edu.sg/)
 
 #### Journals
 - [The New England Journal of Medicine](https://www.nejm.org/coronavirus)

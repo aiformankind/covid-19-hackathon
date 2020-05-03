@@ -1,6 +1,9 @@
 import re
 import Utils
 
+ANXIETY_FILTERS_FILE = "./data/mental_anxiety_filters.txt" 
+COVID_FILTER_FILE = "./data/covid_filter.txt" 
+
 def process_tweet(tweet_text):
     tweet_text = tweet_text.lower() # convert text to lower-case
     tweet_text = re.sub('((www\.[^\s]+)|(https?://[^\s]+))', '', tweet_text) # remove URLs
@@ -10,16 +13,18 @@ def process_tweet(tweet_text):
     # tweet_text = re.sub(r'#([^\s]+)', r'\1', "et_text) # remove the # in #hashtag
     return tweet_text
 
+def get_anxiety_words():
+    return Utils.get_words_from_file(ANXIETY_FILTERS_FILE)
 
+def get_covid_words():
+    return Utils.get_words_from_file(COVID_FILTER_FILE)
+    
 def is_anxiety(tweet_text):
-    anxiety_filter_file = "./data/mental_anxiety_filters.txt" 
-    words = Utils.get_words_from_file(anxiety_filter_file)
+    words = get_anxiety_words()
     return Utils.has_word_in_text(tweet_text, words)
 
-
 def is_covid(tweet_text):
-    covid_filter_file = "./data/covid_filter.txt" 
-    words = Utils.get_words_from_file(covid_filter_file)
+    words = get_covid_words()
     return Utils.has_word_in_text(tweet_text, words)
 
 
